@@ -41,3 +41,9 @@ You can click the Preview link to take a look at your changes.
 <code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
 
 
+# Visiting Counter:
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/prerak-26/count.svg" />
+</p>
+
