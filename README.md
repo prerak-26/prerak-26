@@ -10,9 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# HackerRank #
-https://www.hackerrank.com/prerak2557
 
+# Competitive Coding Profile #
+
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prerak2557)
+
+---
 
 
 
