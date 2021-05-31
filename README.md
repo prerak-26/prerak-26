@@ -17,4 +17,5 @@ https://www.hackerrank.com/prerak2557"
 <img src="https://github-readme-stats.vercel.app/api?username=prerak-26&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-<i class="devicon-python-plain"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
