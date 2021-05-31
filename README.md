@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # CE Student !!
 
-  <img align="right" height="350px" width="450px" alt="GIF" src="https://giphy.com/gifs/topshelfrecords-clique-top-shelf-records-3o7qE1TfOPGlb5M5hu"/>
+  
 
 ---
 
