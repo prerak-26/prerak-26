@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
-<code> <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/Django/Django-icon.svg"/> <code>
+<code> <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/index.html"/> <code>
 
 
 # Visiting Counter:
