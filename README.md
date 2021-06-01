@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 # Competitive Coding Profile #
 
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prerak2557)
-
+[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/prerak_26/)
 ---
 
 # Statistics #
