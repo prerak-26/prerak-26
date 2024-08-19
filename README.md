@@ -39,6 +39,9 @@ You can click the Preview link to take a look at your changes.
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
 <code> <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/> <code>
+<code> <img title="SQL" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/> <code>
+<code> <img title="Tableau" height="50" src="https://worldvectorlogo.com/logo/microsoft-excel-2013"/> <code>
+<code> <img title="PowerBI" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/> <code>
 
 
 # Visiting Counter:
