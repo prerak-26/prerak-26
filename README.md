@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prerak-26
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Python
+- 👀 I’m looking for an opportunity 
+- 🌱 I’m currently learning Excel, SQL, Tableau, PowerBi, Python
 - 💞️ I’m looking to collaborate on Data
 - 📫 How to reach me prerak2557@gmail.com
 
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# CE Student !!
+# Master's in Data Analytics from UTS (University of Technology Sydney) !!
 
   
 
@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
 # Competitive Coding Profile #
 
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prerak2557)
-[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/prerak_26/)
 ---
 
 # Statistics #
